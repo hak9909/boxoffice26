@@ -1,0 +1,6 @@
+{
+  "name": "Daily Box Office",
+  "description": "KOBIS API를 활용한 한국 일일 박스오피스 및 상세 영화 정보 조회 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
